@@ -11,4 +11,4 @@ This sample was created as part of a classroom assignment, but can be used as a 
 
 ## Future Applications
 
-This proposal can be updated to include the latest model of desk or to include other equipment improvments for the classroom.
+This proposal can be updated to include the latest model of desk or to include other equipment improvements for the classroom.
